@@ -37,7 +37,7 @@ int main()
 				std::cout << "(" << a << "," << b << ",";
 				std::cout << equation << ")\n";
 				myfile << "(" << a << "," << b << ",";
-				myfile << "(" << equation << ")\n";
+				myfile <<  equation << ")\n";
 			}
 		}
 	}
